@@ -1,1 +1,2 @@
-# blue_repo
+second commit
+blue_repo
